@@ -1,0 +1,14 @@
+.Cardholder{
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+.Cardwrapper{
+    width: 500px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
